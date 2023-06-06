@@ -11,3 +11,16 @@ Comandos git:
 6 - git push <name>  << coloca o arquivo na nuvem do github
 7 - git reflog << ver as versões dos arquivos
 8 - git reset --hard <id da versão do arquivo>
+9 - git branch << ver as branches(galhos) do arquivo, (A verde é a que estou usando no momento)
+10 - git branch <nome da branch> << cria uma nova branch
+11 = git checkout <nome da branch> << trocar a branch usada no momento para a branch nova
+12 - git merge <nome da branch> << unir a branch do código para a branch atual
+
+1 - git pull da branch principal
+2 - gerar uma nova branch a partir da branch principal
+3 - Trabalhar a adicionar novas funcionalidades na nova branch que criou
+4 - Finalizar o trabalho na branch temporária
+5 - git checkout na branch principal
+6 - git pull
+7 - Mergiar(unir) o código da branch temporário com a branch principal(depois de testar)
+8 - git push da branch principal
