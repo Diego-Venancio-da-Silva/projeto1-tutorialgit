@@ -1,1 +1,8 @@
 Olá mundo! Meu nome é Diego
+Comandos git:
+1 - git init
+2 - git status
+3 - git add "arquivo" << adiciona o arquivo
+4 - git add . << adiciona tudo
+5 - git commit -m "commit inicial" << 'm' significa mensagem, primeira versão de um arquivo
+6 - git push <name>
