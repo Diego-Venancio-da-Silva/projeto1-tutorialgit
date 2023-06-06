@@ -1,8 +1,13 @@
 Olá mundo! Meu nome é Diego
+
+Criar pasta, botão direito, git bash here
+
 Comandos git:
 1 - git init
 2 - git status
 3 - git add "arquivo" << adiciona o arquivo
 4 - git add . << adiciona tudo
 5 - git commit -m "commit inicial" << 'm' significa mensagem, primeira versão de um arquivo
-6 - git push <name>
+6 - git push <name>  << coloca o arquivo na nuvem do github
+7 - git reflog << ver as versões dos arquivos
+8 - git reset --hard <id da versão do arquivo>
